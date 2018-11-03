@@ -19,11 +19,11 @@ const IndexPage = () => (
 
 export default IndexPage
 */
-import React from "react"
-import { Link } from "gatsby"
-import { getUser, isLoggedIn } from "../services/auth"
-
-import Layout from "../components/layout"
+import React from "react";
+import { Link } from "gatsby";
+import { getUser, isLoggedIn } from "../services/auth";
+import Footer from '../components/footer'
+import Layout from "../components/layout";
 
 const IndexPage = () => {
   return (
@@ -32,18 +32,17 @@ const IndexPage = () => {
       <p>
         {isLoggedIn() ? (
           <>
-            You are logged in, so check your{" "}
-            <Link to="/profile">profile</Link>
+            You are logged in, so check your <Link to="/profile">profile</Link>
           </>
         ) : (
           <>
-            You should <Link to="/login">log in</Link> to see restricted
-            content
+            You should <Link to="/login">log in</Link> to see restricted content
           </>
         )}
       </p>
+      <Footer />
     </Layout>
-  )
-}
+  );
+};
 
-export default IndexPage
+export default IndexPage;

@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+body {
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  background: #172337;
+  color: #eaeaee;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 50px;
+  text-align: center;
+}
+footer ul {
+  list-style: none;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+}
+footer .footer-list ul li a {
+  text-decoration: none;
+  color: inherit;
+  display: inline;
+}
+footer h4 {
+  font-weight: bolder;
+  font-size: 2em;
+}
+footer .footer-list ul li {
+  height: 40px;
+  display: inline-block;
+}
+
+footer ul li a:hover {
+  text-decoration: underline;
+}
+
+footer .subscribe {
+  line-height: 2;
+}
+
+footer .subscribe form .footer-email {
+  border: none;
+  outline: none;
+  width: 300px;
+  height: 40px;
+  z-index: 3;
+  text-align: center;
+  font-size: 16px;
+}
+footer .subscribe form button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: white;
+  height: 44px;
+  font-size: 18px;
+  text-transform: uppercase;
+  background: rgba(250, 244, 244, 0.1);
+  border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  transition: all 0.4s;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+footer .subscribe form button:hover,
+footer .subscribe form button:focus {
+  background: rgba(32, 102, 233, 0.212);
+  outline: 0;
+}
+
+@media (max-width: 900px) {
+  footer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  footer .subscribe form button {
+    width: 300px;
+  }
+}
