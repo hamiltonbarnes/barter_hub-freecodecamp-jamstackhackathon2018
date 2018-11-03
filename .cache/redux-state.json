@@ -1,0 +1,1387 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d5d3b190314bf927b1e80f0ad0067e9d",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "19f4c035afddce6e53876a5356a63830",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a52c54f8712ed635078be4aafede0e13",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5fd24e8f9b3356ff9806ea3ee7bd60a1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7880e930234329d27a4c6ab3eca834e2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "69f0c24442f1ba872c06af644001d91c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6efb4c45b2e00220e780b8310d54ea9e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ae238464-712d-54f4-b9b5-3e5ac38fa633": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-source-filesystem",
+      "id": "ae238464-712d-54f4-b9b5-3e5ac38fa633",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "E:\\Maher-Projects\\hackathon-1\\barter_hub-freecodecamp-jamstackhackathon2018/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.7",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "af0b0090f6e1ed1ffbdcd55c97f069ec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.7",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "edc005fa9e1f653f7ceb1867843f6c73",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1dece449728fbb0525a97ac2ab2b32b3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cd1c498e019dd5837decdc6949c243ae",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onPostPrefetchPathname",
+        "onServiceWorkerActive"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">=2.0.20"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7899602681623389c1223715bb5f13e1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "48dfaa53d242bbd83f7739a5a015541e",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.19"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.15"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.4"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.14.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b2a9c5a628c9278475e9055a5e3b758b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "177f8603-7915-556b-a200-15a1170504f6": {
+      "resolve": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-page-creator",
+      "id": "177f8603-7915-556b-a200-15a1170504f6",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9981de2c5280024e1641b6afb92abaf4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-11-03T19:57:18.376Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0221b00397566d758704feb076e8d1bb",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4c773c9d-7d4f-5d19-8998-e43c9b3e1cd5": {
+      "id": "4c773c9d-7d4f-5d19-8998-e43c9b3e1cd5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6eae0699f1a99d3c1c633edc26bb45e2",
+        "type": "Directory",
+        "description": "Directory \"src\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-11-03T19:36:35.870Z",
+      "accessTime": "2018-11-03T19:36:35.870Z",
+      "changeTime": "2018-11-03T19:36:35.870Z",
+      "birthTime": "2018-11-03T19:36:35.866Z",
+      "root": "E:/",
+      "dir": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 3023616054,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884547706,
+      "atimeMs": 1541273795869.588,
+      "mtimeMs": 1541273795869.588,
+      "ctimeMs": 1541273795869.588,
+      "birthtimeMs": 1541273795865.588,
+      "atime": "2018-11-03T19:36:35.870Z",
+      "mtime": "2018-11-03T19:36:35.870Z",
+      "ctime": "2018-11-03T19:36:35.870Z",
+      "birthtime": "2018-11-03T19:36:35.866Z"
+    },
+    "100930c4-024e-5ea2-bc36-973ae99ca288": {
+      "id": "100930c4-024e-5ea2-bc36-973ae99ca288",
+      "children": [
+        "4f0af9af-863b-5f63-8945-4c8bfc7ebd74"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\images\\gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2018-11-03T19:36:35.870Z",
+      "accessTime": "2018-11-03T19:36:35.870Z",
+      "changeTime": "2018-11-03T19:36:35.870Z",
+      "birthTime": "2018-11-03T19:36:35.870Z",
+      "root": "E:/",
+      "dir": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 3023616054,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884547708,
+      "atimeMs": 1541273795869.588,
+      "mtimeMs": 1541273795869.588,
+      "ctimeMs": 1541273795869.588,
+      "birthtimeMs": 1541273795869.588,
+      "atime": "2018-11-03T19:36:35.870Z",
+      "mtime": "2018-11-03T19:36:35.870Z",
+      "ctime": "2018-11-03T19:36:35.870Z",
+      "birthtime": "2018-11-03T19:36:35.870Z"
+    },
+    "4f0af9af-863b-5f63-8945-4c8bfc7ebd74": {
+      "id": "4f0af9af-863b-5f63-8945-4c8bfc7ebd74",
+      "children": [],
+      "parent": "100930c4-024e-5ea2-bc36-973ae99ca288",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "3b77eb18-87ae-525d-ba8f-16085a633208": {
+      "id": "3b77eb18-87ae-525d-ba8f-16085a633208",
+      "children": [
+        "d6db61b7-d0f9-5123-ae6e-891a6acc4980"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\images\\gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2018-11-03T19:36:35.869Z",
+      "accessTime": "2018-11-03T19:36:35.869Z",
+      "changeTime": "2018-11-03T19:36:35.869Z",
+      "birthTime": "2018-11-03T19:36:35.869Z",
+      "root": "E:/",
+      "dir": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 3023616054,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884547707,
+      "atimeMs": 1541273795868.588,
+      "mtimeMs": 1541273795868.588,
+      "ctimeMs": 1541273795868.588,
+      "birthtimeMs": 1541273795868.588,
+      "atime": "2018-11-03T19:36:35.869Z",
+      "mtime": "2018-11-03T19:36:35.869Z",
+      "ctime": "2018-11-03T19:36:35.869Z",
+      "birthtime": "2018-11-03T19:36:35.869Z"
+    },
+    "d6db61b7-d0f9-5123-ae6e-891a6acc4980": {
+      "id": "d6db61b7-d0f9-5123-ae6e-891a6acc4980",
+      "children": [],
+      "parent": "3b77eb18-87ae-525d-ba8f-16085a633208",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "177f8603-7915-556b-a200-15a1170504f6",
+      "pluginCreatorId": "177f8603-7915-556b-a200-15a1170504f6",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ca6f79d47240020f7fc4349c24b648f",
+        "description": "177f8603-7915-556b-a200-15a1170504f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /app/": {
+      "jsonName": "app-f4d",
+      "internalComponentName": "ComponentApp",
+      "path": "/app/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js",
+      "componentChunkName": "component---src-pages-app-js",
+      "context": {},
+      "pluginCreator___NODE": "177f8603-7915-556b-a200-15a1170504f6",
+      "pluginCreatorId": "177f8603-7915-556b-a200-15a1170504f6",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js",
+      "id": "SitePage /app/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2b2882c6ce1329e8f3cf0f70743a533d",
+        "description": "177f8603-7915-556b-a200-15a1170504f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "177f8603-7915-556b-a200-15a1170504f6",
+      "pluginCreatorId": "177f8603-7915-556b-a200-15a1170504f6",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "092dd8ef3fd23094babf949043ba9ef8",
+        "description": "177f8603-7915-556b-a200-15a1170504f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /login/": {
+      "jsonName": "login-557",
+      "internalComponentName": "ComponentLogin",
+      "path": "/login/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js",
+      "componentChunkName": "component---src-pages-login-js",
+      "context": {},
+      "pluginCreator___NODE": "177f8603-7915-556b-a200-15a1170504f6",
+      "pluginCreatorId": "177f8603-7915-556b-a200-15a1170504f6",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js",
+      "id": "SitePage /login/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4d9c6b3a83bbf9341480459a0d7ee1a7",
+        "description": "177f8603-7915-556b-a200-15a1170504f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "pluginCreator___NODE": "177f8603-7915-556b-a200-15a1170504f6",
+      "pluginCreatorId": "177f8603-7915-556b-a200-15a1170504f6",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "50117d6daa7e7c3bc2d4124200eb0eaf",
+        "description": "177f8603-7915-556b-a200-15a1170504f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /profile/": {
+      "jsonName": "profile-2a3",
+      "internalComponentName": "ComponentProfile",
+      "path": "/profile/",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js",
+      "componentChunkName": "component---src-pages-profile-js",
+      "context": {},
+      "pluginCreator___NODE": "177f8603-7915-556b-a200-15a1170504f6",
+      "pluginCreatorId": "177f8603-7915-556b-a200-15a1170504f6",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js",
+      "id": "SitePage /profile/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1c135e776e1c38e6ff39baa3f4ba4baf",
+        "description": "177f8603-7915-556b-a200-15a1170504f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {
+        "$ref": "$[\"nodes\"][\"SitePage /404/\"][\"context\"]"
+      },
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8e9a281f7c163c1485a946f5a77f8a6f",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "a1ad64bb6b10ff5b8152645be6501a53"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js"
+      ],
+      "3b77eb18-87ae-525d-ba8f-16085a633208": [
+        "sq--src-components-image-js"
+      ],
+      "d6db61b7-d0f9-5123-ae6e-891a6acc4980": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-layout-js": 755544856,
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "app-f4d": "818/path---app-f-4-d-201-NZuapzHg3X9TaN1iIixfv1W23E",
+    "login-557": "624/path---login-557-29c-NZuapzHg3X9TaN1iIixfv1W23E",
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "profile-2a3": "971/path---profile-2-a-3-b0c-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-image-js": 2011440971
+  },
+  "components": {
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js"
+    },
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js"
+    },
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js"
+    },
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js"
+    },
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js"
+    },
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js"
+    },
+    "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js": {
+      "query": "",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "eMaherProjectsHackathon1BarterHubFreecodecampJamstackhackathon2018SrcComponentsImageJs2011440971",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query eMaherProjectsHackathon1BarterHubFreecodecampJamstackhackathon2018SrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "E:/Maher-Projects/hackathon-1/barter_hub-freecodecamp-jamstackhackathon2018/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    }
+  }
+}
