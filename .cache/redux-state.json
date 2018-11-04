@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a72cfda2e77947327ebfd39c03dac6fe",
+        "contentDigest": "19742de5e2d75c53091287754cf3410d",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d3d4c9790a7dc06ab0a6799acb34fc65",
+        "contentDigest": "87660567fd4297b6b58ca382cea4c48e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "03ad628a59e29aff41cd81338ea5f36a",
+        "contentDigest": "f3559fd170b10fdca8c308e2f1521615",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5c959e10261890262868d81e86e41495",
+        "contentDigest": "45db87440c78a0d95a31dbc35362db82",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1fb3dd212a9a8a88b95ea7dee11078cb",
+        "contentDigest": "b6403ba5ccb5c68733c421cabfbbad56",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9597e96b1508c88b3ca39a9c553d6fc2",
+        "contentDigest": "7325dd6f5d15ef317cc3e5bf1971f236",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-react-helmet",
       "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.1",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -273,20 +273,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "903a58dc0f2ea97b2fd646777890ba46",
+        "contentDigest": "dc4a271db5022049edff070f13eb38d4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "6118ffae-d9ce-5e85-90a6-862bb0d194b3": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-source-filesystem",
-      "id": "6118ffae-d9ce-5e85-90a6-862bb0d194b3",
+    "420446b7-0487-58a6-acc1-36498e5f4036": {
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-source-filesystem",
+      "id": "420446b7-0487-58a6-acc1-36498e5f4036",
       "name": "gatsby-source-filesystem",
       "version": "2.0.7",
       "pluginOptions": {
         "plugins": [],
         "name": "images",
-        "path": "F:\\hackathon\\barter_hub-freecodecamp-jamstackhackathon2018/src/images"
+        "path": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -294,7 +294,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -393,13 +393,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4899b6b25e82334fcc63fd516123dc3a",
+        "contentDigest": "888e848fa3244711ef5cd722d1ef1a30",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-transformer-sharp",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-transformer-sharp",
       "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
       "name": "gatsby-transformer-sharp",
       "version": "2.1.7",
@@ -413,7 +413,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -486,13 +486,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1bec22f8eb28562d1c54f11fec5a9e50",
+        "contentDigest": "0c74f8afedc6fec8b314f8ec935e1d8c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84d6154d-4241-556c-a679-cc8339cac100": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-sharp",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-sharp",
       "id": "84d6154d-4241-556c-a679-cc8339cac100",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.11",
@@ -502,7 +502,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -612,13 +612,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "da60488acbbf2145338758915ba92039",
+        "contentDigest": "fea3cb67eef1e9976185fd4f6ff7de33",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "112c12f8-b222-509b-abe0-dfe93a905df9": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-manifest",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-manifest",
       "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.7",
@@ -639,7 +639,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -700,13 +700,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "040c8a4b99d7bae1ce76be1130809235",
+        "contentDigest": "f2f07a32cd32bb0743aa218c39bbb925",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-offline",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-offline",
       "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
       "name": "gatsby-plugin-offline",
       "version": "2.0.11",
@@ -723,7 +723,7 @@
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -786,23 +786,23 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e522a6bc96e7005ce26be7e0579989bf",
+        "contentDigest": "e939e3018fb4757097d7785152781f6e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018",
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "48dfaa53d242bbd83f7739a5a015541e",
+      "version": "71ae217d5b192b1ab0ad931997588848",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -871,19 +871,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f12914ec1d19c4595faffe4ee0dbd402",
+        "contentDigest": "a8af1d97af0f11831392ae7cadf23dc9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "3b2eaf10-e036-5b68-b01e-311be153f775": {
-      "resolve": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-page-creator",
-      "id": "3b2eaf10-e036-5b68-b01e-311be153f775",
+    "0924b474-ae41-5b13-baac-d60ce8b53bd8": {
+      "resolve": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-page-creator",
+      "id": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.2",
       "pluginOptions": {
         "plugins": [],
-        "path": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages",
+        "path": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -891,7 +891,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -967,174 +967,180 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c09190ddacfcfdadd05ac127ac744a87",
+        "contentDigest": "eabd22c78774db7b7e95af2eb668872b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "BarterHub"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-03T17:39:19.036Z",
+      "buildTime": "2018-11-04T05:27:48.308Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bae9e96786fc4de4bf81dab025c3170e",
+        "contentDigest": "e9d46dada06f52dc079097a9b022a902",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "e7278991-3e40-51cc-bd36-1af3259ae626": {
-      "id": "e7278991-3e40-51cc-bd36-1af3259ae626",
+    "af22ad64-001f-5c0c-9cd2-faaf33de7df1": {
+      "id": "af22ad64-001f-5c0c-9cd2-faaf33de7df1",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "13c0c3c26f7b5d6f1135c338bfbd5599",
+        "contentDigest": "a9aec0fea73fa0505b22ed40e0f841df",
         "type": "Directory",
-        "description": "Directory \"src\\images\"",
+        "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
+      "absolutePath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
+      "size": 4096,
+      "prettySize": "4.1 kB",
       "modifiedTime": "2018-11-03T17:28:05.953Z",
-      "accessTime": "2018-11-03T17:39:30.548Z",
+      "accessTime": "2018-11-04T05:28:03.688Z",
       "changeTime": "2018-11-03T17:28:05.953Z",
-      "birthTime": "2018-11-03T17:28:05.949Z",
-      "root": "F:/",
-      "dir": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src",
+      "birthTime": "2018-11-03T17:28:05.953Z",
+      "root": "/",
+      "dir": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src",
       "base": "images",
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 2231863952,
-      "mode": 16822,
+      "dev": 15,
+      "mode": 16895,
       "nlink": 1,
-      "uid": 0,
-      "gid": 0,
+      "uid": 1000,
+      "gid": 1000,
       "rdev": 0,
+      "blksize": 4096,
       "ino": 281474977289392,
-      "atimeMs": 1541266770547.7766,
+      "blocks": 0,
+      "atimeMs": 1541309283687.8706,
       "mtimeMs": 1541266085952.9067,
       "ctimeMs": 1541266085952.9067,
-      "birthtimeMs": 1541266085948.9077,
-      "atime": "2018-11-03T17:39:30.548Z",
+      "birthtimeMs": 1541266085952.9067,
+      "atime": "2018-11-04T05:28:03.688Z",
       "mtime": "2018-11-03T17:28:05.953Z",
       "ctime": "2018-11-03T17:28:05.953Z",
-      "birthtime": "2018-11-03T17:28:05.949Z"
+      "birthtime": "2018-11-03T17:28:05.953Z"
     },
-    "0b35edd7-7857-57d1-b78d-c52ce603531f": {
-      "id": "0b35edd7-7857-57d1-b78d-c52ce603531f",
+    "c431a6d6-6ff0-5a7e-96f0-b2e91c928db4": {
+      "id": "c431a6d6-6ff0-5a7e-96f0-b2e91c928db4",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src\\images\\gatsby-icon.png\"",
+        "description": "File \"src/images/gatsby-icon.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images/gatsby-icon.png",
+      "absolutePath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images/gatsby-icon.png",
       "relativePath": "gatsby-icon.png",
       "extension": "png",
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2018-11-03T17:28:05.954Z",
-      "accessTime": "2018-11-03T17:28:05.954Z",
+      "accessTime": "2018-11-04T04:55:55.587Z",
       "changeTime": "2018-11-03T17:28:05.954Z",
-      "birthTime": "2018-11-03T17:28:05.953Z",
-      "root": "F:/",
-      "dir": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
+      "birthTime": "2018-11-03T17:28:05.954Z",
+      "root": "/",
+      "dir": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
       "base": "gatsby-icon.png",
       "ext": ".png",
       "name": "gatsby-icon",
       "relativeDirectory": "",
-      "dev": 2231863952,
-      "mode": 33206,
+      "dev": 15,
+      "mode": 33279,
       "nlink": 1,
-      "uid": 0,
-      "gid": 0,
+      "uid": 1000,
+      "gid": 1000,
       "rdev": 0,
+      "blksize": 4096,
       "ino": 281474977289394,
-      "atimeMs": 1541266085953.9055,
+      "blocks": 48,
+      "atimeMs": 1541307355586.5276,
       "mtimeMs": 1541266085953.9055,
       "ctimeMs": 1541266085953.9055,
-      "birthtimeMs": 1541266085952.9067,
-      "atime": "2018-11-03T17:28:05.954Z",
+      "birthtimeMs": 1541266085953.9055,
+      "atime": "2018-11-04T04:55:55.587Z",
       "mtime": "2018-11-03T17:28:05.954Z",
       "ctime": "2018-11-03T17:28:05.954Z",
-      "birthtime": "2018-11-03T17:28:05.953Z"
+      "birthtime": "2018-11-03T17:28:05.954Z"
     },
-    "41784ead-2c36-5549-a136-2fab609d88be": {
-      "id": "41784ead-2c36-5549-a136-2fab609d88be",
+    "926a3b79-c6d9-5ed4-80b8-a2c231376144": {
+      "id": "926a3b79-c6d9-5ed4-80b8-a2c231376144",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src\\images\\gatsby-astronaut.png\"",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images/gatsby-astronaut.png",
+      "absolutePath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images/gatsby-astronaut.png",
       "relativePath": "gatsby-astronaut.png",
       "extension": "png",
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2018-11-03T17:28:05.952Z",
-      "accessTime": "2018-11-03T17:28:05.952Z",
+      "accessTime": "2018-11-04T04:55:55.641Z",
       "changeTime": "2018-11-03T17:28:05.952Z",
-      "birthTime": "2018-11-03T17:28:05.951Z",
-      "root": "F:/",
-      "dir": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
+      "birthTime": "2018-11-03T17:28:05.952Z",
+      "root": "/",
+      "dir": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/images",
       "base": "gatsby-astronaut.png",
       "ext": ".png",
       "name": "gatsby-astronaut",
       "relativeDirectory": "",
-      "dev": 2231863952,
-      "mode": 33206,
+      "dev": 15,
+      "mode": 33279,
       "nlink": 1,
-      "uid": 0,
-      "gid": 0,
+      "uid": 1000,
+      "gid": 1000,
       "rdev": 0,
+      "blksize": 4096,
       "ino": 281474977289393,
-      "atimeMs": 1541266085951.904,
+      "blocks": 328,
+      "atimeMs": 1541307355641.475,
       "mtimeMs": 1541266085951.904,
       "ctimeMs": 1541266085951.904,
-      "birthtimeMs": 1541266085950.9082,
-      "atime": "2018-11-03T17:28:05.952Z",
+      "birthtimeMs": 1541266085951.904,
+      "atime": "2018-11-04T04:55:55.641Z",
       "mtime": "2018-11-03T17:28:05.952Z",
       "ctime": "2018-11-03T17:28:05.952Z",
-      "birthtime": "2018-11-03T17:28:05.951Z"
+      "birthtime": "2018-11-03T17:28:05.952Z"
     },
     "SitePage /404/": {
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "pluginCreator___NODE": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "pluginCreatorId": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "pluginCreator___NODE": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "pluginCreatorId": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8c76ce57fc164b78cf8220c23d0d252c",
-        "description": "3b2eaf10-e036-5b68-b01e-311be153f775",
+        "contentDigest": "f003efdb9ddeb20c3e6bbfeeeac46178",
+        "description": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1142,19 +1148,19 @@
       "jsonName": "app-f4d",
       "internalComponentName": "ComponentApp",
       "path": "/app/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js",
       "componentChunkName": "component---src-pages-app-js",
       "context": {},
-      "pluginCreator___NODE": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "pluginCreatorId": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js",
+      "pluginCreator___NODE": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "pluginCreatorId": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js",
       "id": "SitePage /app/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8a519404699746fc0b89d52279f70c77",
-        "description": "3b2eaf10-e036-5b68-b01e-311be153f775",
+        "contentDigest": "cf8eed13a2b158da03d1a579278342b3",
+        "description": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1162,19 +1168,19 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "pluginCreator___NODE": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "pluginCreatorId": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js",
+      "pluginCreator___NODE": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "pluginCreatorId": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e97a594655499bc5479506b8f3a34842",
-        "description": "3b2eaf10-e036-5b68-b01e-311be153f775",
+        "contentDigest": "fd7ecf85fbe90b9dedbb24fd1f1af349",
+        "description": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1182,19 +1188,19 @@
       "jsonName": "login-557",
       "internalComponentName": "ComponentLogin",
       "path": "/login/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js",
       "componentChunkName": "component---src-pages-login-js",
       "context": {},
-      "pluginCreator___NODE": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "pluginCreatorId": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js",
+      "pluginCreator___NODE": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "pluginCreatorId": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js",
       "id": "SitePage /login/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "61802a500775a08117e2016540e7b5c9",
-        "description": "3b2eaf10-e036-5b68-b01e-311be153f775",
+        "contentDigest": "73a659363924b3aee07cfcd1b608d120",
+        "description": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1202,19 +1208,19 @@
       "jsonName": "page-2-fbc",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "pluginCreator___NODE": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "pluginCreatorId": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js",
+      "pluginCreator___NODE": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "pluginCreatorId": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7acb45aaf034f62c6d8464a36fee1472",
-        "description": "3b2eaf10-e036-5b68-b01e-311be153f775",
+        "contentDigest": "b8041cc9e59927e877ee3fa754d47cbb",
+        "description": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1222,19 +1228,19 @@
       "jsonName": "profile-2a3",
       "internalComponentName": "ComponentProfile",
       "path": "/profile/",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js",
       "componentChunkName": "component---src-pages-profile-js",
       "context": {},
-      "pluginCreator___NODE": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "pluginCreatorId": "3b2eaf10-e036-5b68-b01e-311be153f775",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js",
+      "pluginCreator___NODE": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "pluginCreatorId": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js",
       "id": "SitePage /profile/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d75016be1edc253eac7d68bcac9bb1e2",
-        "description": "3b2eaf10-e036-5b68-b01e-311be153f775",
+        "contentDigest": "e66e911260849ecf76cfa5085ccad667",
+        "description": "0924b474-ae41-5b13-baac-d60ce8b53bd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1242,20 +1248,20 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "component": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {
         "$ref": "$[\"nodes\"][\"SitePage /404/\"][\"context\"]"
       },
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ecc7eb1ad9a80da4854f50ff17704416",
+        "contentDigest": "f35228614d6157d4cde8e86d0ba4b6e7",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -1263,50 +1269,50 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "a1ad64bb6b10ff5b8152645be6501a53"
+    "PLUGINS_HASH": "0d775a8f0a3e7e2f6e3bf8f502241f83"
   },
   "componentDataDependencies": {
     "nodes": {},
     "connections": {}
   },
   "jsonDataPaths": {
+    "app-f4d": "818/path---app-f-4-d-201-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
-    "app-f4d": "818/path---app-f-4-d-201-NZuapzHg3X9TaN1iIixfv1W23E",
-    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "login-557": "624/path---login-557-29c-NZuapzHg3X9TaN1iIixfv1W23E",
-    "profile-2a3": "971/path---profile-2-a-3-b0c-NZuapzHg3X9TaN1iIixfv1W23E"
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
+    "profile-2a3": "971/path---profile-2-a-3-b0c-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/.cache/dev-404-page.js"
     },
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/404.js"
     },
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/app.js"
     },
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/index.js"
     },
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/login.js"
     },
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/page-2.js"
     },
-    "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js": {
+    "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js": {
       "query": "",
-      "componentPath": "F:/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js"
+      "componentPath": "/mnt/f/hackathon/barter_hub-freecodecamp-jamstackhackathon2018/src/pages/profile.js"
     }
   },
   "staticQueryComponents": {}

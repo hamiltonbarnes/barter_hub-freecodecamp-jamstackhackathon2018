@@ -4,6 +4,7 @@ body {
   margin: 0;
 }
 
+/*Footer*/
 footer {
   left: 0;
   bottom: 0;
@@ -23,6 +24,7 @@ footer ul {
   padding: 5px;
   display: flex;
   flex-direction: column;
+  margin: 0;
 }
 footer .footer-list ul li a {
   text-decoration: none;
@@ -32,6 +34,7 @@ footer .footer-list ul li a {
 footer h4 {
   font-weight: bolder;
   font-size: 2em;
+  text-transform: uppercase;
 }
 footer .footer-list ul li {
   height: 40px;
