@@ -12,18 +12,20 @@ const IndexPage = () => {
   return (
     <div>
     <Layout>
+    <div className="text-welcome">
       <h1>Hi {isLoggedIn() ? getUser().name : 'people'}</h1>
-      <p>
+      <span>
         {isLoggedIn() ? (
-          <>
+          <p>
             You are logged in, so check your <Link to="/profile">profile</Link>
-          </>
+          </p>
         ) : (
-          <>
+          <p>
             You should <Link to="/login">log in</Link> to see restricted content
-          </>
+          </p>
         )}
-      </p>
+      </span>
+    </div>
       <ProductList items={itemCategoriesList}/>
     </Layout>
     <Footer />
