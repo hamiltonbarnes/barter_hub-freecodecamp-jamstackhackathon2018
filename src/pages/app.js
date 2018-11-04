@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import PrivateRoute from "../components/privateRoute"
 import Profile from "../components/profile"
 import Login from "../components/login"
+import Link from 'gatsby'
 
 const App = () => (
   <Layout>
