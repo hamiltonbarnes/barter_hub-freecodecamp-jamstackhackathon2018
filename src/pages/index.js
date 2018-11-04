@@ -10,6 +10,7 @@ import {itemCategoriesList} from '../constants/constants'
 
 const IndexPage = () => {
   return (
+    <div>
     <Layout>
       <h1>Hi {isLoggedIn() ? getUser().name : 'people'}</h1>
       <p>
@@ -24,8 +25,9 @@ const IndexPage = () => {
         )}
       </p>
       <ProductList items={itemCategoriesList}/>
-      <Footer />
     </Layout>
+    <Footer />
+    </div>
   )
 }
 
