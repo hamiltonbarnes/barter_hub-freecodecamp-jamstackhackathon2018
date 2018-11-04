@@ -25,6 +25,7 @@ export default () => {
         {` `}
         <Link to="/profile">Profile</Link>
         {` `}
+        <Link to="/do-barter">Do barter</Link>
         {isLoggedIn() ? (
           <a
             href="/"

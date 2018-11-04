@@ -158,3 +158,27 @@ img {
     width: 300px;
   }
 }
+
+/* Two products to barter */
+.products-to-barter {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 50px 0;
+}
+.products-to-barter .product{
+  border: 1px solid #cfd8dc;
+  border-radius: 5px;
+  box-shadow: 0 3px 30px 0 rgba(38,50,56,0.1);
+  width: 35%;
+  padding: 40px 20px;
+  margin: 0 25px;
+}
+.products-to-barter .btn {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  height: 40%;
+  text-align: center;
+  margin-top: 10%;
+}
