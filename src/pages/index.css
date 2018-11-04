@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+
+
+
+/*Footer*/
 footer {
   left: 0;
   bottom: 0;
@@ -23,6 +27,7 @@ footer ul {
   padding: 5px;
   display: flex;
   flex-direction: column;
+  margin: 0;
 }
 footer .footer-list ul li a {
   text-decoration: none;
