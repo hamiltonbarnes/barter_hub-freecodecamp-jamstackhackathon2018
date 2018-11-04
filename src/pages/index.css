@@ -3,6 +3,8 @@ body {
   padding: 0;
   margin: 0;
 }
+
+
 /*Product List*/
 
 .product-list {
@@ -56,7 +58,7 @@ body {
 }
 .product-list .product-item .product-description a:hover::after {
   width: 50px;
-  background: #eeaaee;
+  background: #eaeaee;
 }
 
 /*Footer*/
