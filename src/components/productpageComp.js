@@ -10,7 +10,11 @@ const ProductsPage = ({ items }) => {
    <section className="product-list">
       
       {items.map(item => {
+<<<<<<< HEAD
         return <ProductItem key={item.id} item={item} price={item.price} />
+=======
+        return <ProductItem key={item.id} item={item} price={item.price} barterpage={item.barterpage} />
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0
       })}
     </section>
    </main>

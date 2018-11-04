@@ -2,7 +2,10 @@
 body {
   padding: 0;
   margin: 0;
+<<<<<<< HEAD
   font-family: 'Source Sans Pro', sans-serif;
+=======
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0
 }
 
 
@@ -169,7 +172,11 @@ img {
   justify-content: center;
   margin: 50px 0;
 }
+<<<<<<< HEAD
 .products-to-barter .product {
+=======
+.products-to-barter .product{
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0
   border: 1px solid #cfd8dc;
   border-radius: 5px;
   box-shadow: 0 3px 30px 0 rgba(38,50,56,0.1);
@@ -185,6 +192,7 @@ img {
   text-align: center;
   margin-top: 10%;
 }
+<<<<<<< HEAD
 
 /* navBar styles */
 .navbar {
@@ -232,3 +240,5 @@ img {
     margin-bottom: 10%;
   }
 }
+=======
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0

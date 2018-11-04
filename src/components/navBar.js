@@ -23,9 +23,13 @@ export default () => {
         <li className="nav-item">
 
         <Link to="/profile">Profile</Link>
+<<<<<<< HEAD
         {` `}</li>
         <li className="nav-item">
 
+=======
+        {` `}
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0
         <Link to="/do-barter">Do barter</Link>
         {isLoggedIn() ? (
           <a

@@ -28,7 +28,11 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
+<<<<<<< HEAD
         {/*<Header /> */}
+=======
+        <Header />
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0
         <div
           style={{
             margin: "0 auto",

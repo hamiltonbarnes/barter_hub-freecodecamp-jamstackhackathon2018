@@ -3,9 +3,44 @@ import Layout from '../components/layout'
 
 import Footer from '../components/footer'
 
+<<<<<<< HEAD
 const DoBarter = () => {
     return (
     <div>
+=======
+
+
+
+
+const DoBarter = () => {
+    return (
+    <div>
+	<div>
+	  <p>Before the script...</p>
+<script src="https://cdn.jsdelivr.net/faunadb/1.1/faunadb.js"></script>
+  <script>
+ var q = faunadb.query;
+  var client = new faunadb.Client({
+	secret: 'fnAC--V2ZKACCDdHS-KtiV5aG8HWuuonUIUMUlgK'
+});
+ 
+
+client.query(q.Get(q.Match(q.Index("posts_by_price"), "iphone"))).then(  (num) => myFunc(num) );
+
+function myFunc(elem) {
+  console.log(Object.values(elem));
+  
+  var p = document.createElement("p");
+  	p.innerText = Object.values(elem);
+  	document.body.appendChild(p)
+}
+
+  </script>
+
+  <p>...After the script.</p>
+  
+  </div>
+>>>>>>> 868e405fc713125ce85d5f30b749a74deef140e0
     <Layout>
     <h1 style={{textAlign: "center",
     marginTop: "50px"}}> Barter Trading </h1>
