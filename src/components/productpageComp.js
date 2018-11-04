@@ -1,20 +1,20 @@
 import React from 'react'
 import Link from 'gatsby'
 import ProductItem from './product-item'
-const ProductList = ({ items }) => {
+const ProductsPage = ({ items }) => {
   return (
-   <div className="products">
+   <main >
        <h2 style={{textAlign: "center",
        paddingBottom: "20px",
-       borderBottom: "2px #111 solid"}}>All Our Products</h2>
+       borderBottom: "2px #111 solid"}}>Products In Laptop Category</h2>
    <section className="product-list">
       
       {items.map(item => {
-        return <ProductItem key={item.id} item={item} />
+        return <ProductItem key={item.id} item={item} price={item.price} />
       })}
     </section>
-   </div>
+   </main>
   )
 }
 
-export default ProductList
+export default ProductsPage;
