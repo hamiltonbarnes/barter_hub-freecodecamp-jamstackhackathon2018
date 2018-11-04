@@ -1,8 +1,12 @@
 import React from "react";
-import "./footer.css";
+
 const Footer = () => {
   return (
-    <footer>
+    <footer
+      style={{
+        fontFamily: "'Source Sans Pro', sans-serif"
+      }}
+    >
       <FooterList
         className={"privacy footer-list"}
         heading={"Privacy"}
@@ -26,7 +30,11 @@ const FooterList = ({ className, list, heading }) => {
       <h4>{heading}</h4>
       <ul>
         {list.map(item => {
-          return <li />;
+          return (
+            <li key={item.id}>
+              <a href={item.href}>{item.value}</a>
+            </li>
+          );
         })}
       </ul>
     </div>
@@ -59,33 +67,40 @@ export default Footer;
 const privacy = [
   {
     id: 1,
-    value: "Privacy"
+    value: "Privacy",
+    href: "#"
   },
   {
     id: 2,
-    value: "Terms of Use"
+    value: "Terms of Use",
+    href: "#"
   },
   {
     id: 3,
-    value: "Terms of Sale"
+    value: "Terms of Sale",
+    href: "#"
   },
   {
     id: 4,
-    value: "Report Abuse"
+    value: "Report Abuse",
+    href: "#"
   }
 ];
 
 const needHelp = [
   {
     id: 1,
-    value: "FAQ"
+    value: "FAQ",
+    href: "#"
   },
   {
     id: 2,
-    value: "Contact Us"
+    value: "Contact Us",
+    href: "#"
   },
   {
     id: 3,
-    value: "Call Us"
+    value: "Call Us",
+    href: "#"
   }
 ];

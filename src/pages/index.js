@@ -24,6 +24,7 @@ import { Link } from "gatsby";
 import { getUser, isLoggedIn } from "../services/auth";
 import Footer from '../components/footer'
 import Layout from "../components/layout";
+import './index.css'
 
 const IndexPage = () => {
   return (
