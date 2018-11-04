@@ -2,7 +2,11 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer >
+    <footer
+      style={{
+        fontFamily: "'Source Sans Pro', sans-serif"
+      }}
+    >
       <FooterList
         className={"privacy footer-list"}
         heading={"Privacy"}
