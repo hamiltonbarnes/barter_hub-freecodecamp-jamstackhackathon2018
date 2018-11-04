@@ -10,21 +10,22 @@ export default () => {
     content.message = "You are not logged in"
   }
   return (
-    <div
-      style={{
-        display: "flex",
-        flex: "1",
-        justifyContent: "space-between",
-        borderBottom: "1px solid #d1c1e0",
-      }}
-    >
-      <span>{content.message}</span>
+    <div>
+      {/*<span>{content.message}</span> */}
 
-      <nav>
+      <nav className="navbar">
+        <Link className="navbar-brand" to="/">BaterHub</Link>
+        <ul className="navbar-nav">
+        <li className="nav-item">
+
         <Link to="/">Home</Link>
-        {` `}
+        {` `}         </li>
+        <li className="nav-item">
+
         <Link to="/profile">Profile</Link>
-        {` `}
+        {` `}</li>
+        <li className="nav-item">
+
         <Link to="/do-barter">Do barter</Link>
         {isLoggedIn() ? (
           <a
@@ -39,6 +40,8 @@ export default () => {
             Logout
           </a>
         ) : null}
+        </li>
+        </ul>
       </nav>
     </div>
   )
