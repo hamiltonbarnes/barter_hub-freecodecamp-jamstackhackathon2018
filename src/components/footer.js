@@ -1,9 +1,8 @@
 import React from "react";
-import footerStyles from "./footer.module.css"
 
 const Footer = () => {
   return (
-    <footer div={footerStyles.footer}>
+    <footer >
       <FooterList
         className={"privacy footer-list"}
         heading={"Privacy"}
